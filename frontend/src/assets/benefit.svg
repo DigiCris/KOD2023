@@ -1,0 +1,29 @@
+<svg width="52px" height="45" viewBox="0 0 43 45" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M30.29 29.15V15.256c0-1.171.442-1.605 1.642-1.605h8.632c1.212 0 1.661.45 1.661 1.652v27.678c0 1.25-.429 1.678-1.68 1.678h-8.58c-1.267 0-1.674-.407-1.674-1.672-.002-4.613-.002-9.225-.002-13.839Zm9.348-12.952h-6.754v25.943h6.754V16.198Z" fill="url(#profitability_svg__a)"></path>
+                    <path d="M16.02 32.55V21.96c0-1.14.453-1.597 1.6-1.597 2.913-.003 5.826-.003 8.739 0 1.125.001 1.595.46 1.595 1.55.002 7.06.002 14.12 0 21.18 0 1.113-.454 1.567-1.574 1.567-2.93.002-5.862.002-8.792 0-1.11 0-1.569-.461-1.569-1.573V32.551Zm2.589-9.647v19.225h6.756V22.903H18.61Z" fill="url(#profitability_svg__b)"></path>
+                    <path d="M18.681 14.881 33.435 2.653l-.042-.123c-.879 0-1.757.022-2.635-.007-.816-.027-1.331-.671-1.212-1.455.09-.592.59-1.032 1.282-1.039 2.094-.018 4.19-.02 6.285-.001.766.007 1.193.436 1.2 1.182.015 1.974.015 3.948 0 5.922-.005.764-.532 1.288-1.24 1.3-.708.013-1.265-.493-1.297-1.254-.036-.854-.012-1.71-.013-2.566v-.683c-.505.411-.922.747-1.334 1.09L19.74 17.222c-.997.829-1.493.807-2.411-.1-1.29-1.273-2.58-2.546-3.91-3.856-.52.458-1.018.894-1.514 1.335-.896.797-1.788 1.598-2.685 2.392-.642.569-1.432.57-1.934.01-.498-.556-.429-1.28.207-1.849 1.654-1.482 3.312-2.96 4.974-4.43.72-.636 1.35-.612 2.052.073 1.376 1.338 2.74 2.687 4.161 4.083Z" fill="url(#profitability_svg__c)"></path>
+                    <path d="M13.685 35.86v7.234c-.002 1.12-.448 1.566-1.568 1.566H3.326c-1.106 0-1.575-.468-1.575-1.573V28.618c0-1.064.479-1.543 1.553-1.545 2.949-.004 5.897-.004 8.846 0 1.057.002 1.535.47 1.536 1.499.001 2.43-.001 4.858-.001 7.288Zm-2.59 6.286V29.633H4.341v12.513h6.752Z" fill="url(#profitability_svg__d)"></path>
+                    <path d="M4.845 17.8c.661.032 1.053.269 1.275.736.23.485.207.995-.185 1.36A78.08 78.08 0 0 1 2.7 22.76c-.478.399-1.214.262-1.635-.198-.413-.452-.473-1.198-.028-1.622a99.3 99.3 0 0 1 3.206-2.898c.182-.156.474-.193.602-.242Z" fill="url(#profitability_svg__e)"></path>
+                    <defs>
+                      <linearGradient id="profitability_svg__a" x1="36.257" y1="13.651" x2="36.257" y2="44.66" gradientUnits="userSpaceOnUse">
+                        <stop stop-color="#20CF97"></stop>
+                        <stop offset="1" stop-color="#08A0C8"></stop>
+                      </linearGradient>
+                      <linearGradient id="profitability_svg__b" x1="21.988" y1="20.361" x2="21.988" y2="44.661" gradientUnits="userSpaceOnUse">
+                        <stop stop-color="#20CF97"></stop>
+                        <stop offset="1" stop-color="#08A0C8"></stop>
+                      </linearGradient>
+                      <linearGradient id="profitability_svg__c" x1="22.642" y1="0.015" x2="22.642" y2="17.825" gradientUnits="userSpaceOnUse">
+                        <stop stop-color="#20CF97"></stop>
+                        <stop offset="1" stop-color="#08A0C8"></stop>
+                      </linearGradient>
+                      <linearGradient id="profitability_svg__d" x1="7.718" y1="27.07" x2="7.718" y2="44.661" gradientUnits="userSpaceOnUse">
+                        <stop stop-color="#20CF97"></stop>
+                        <stop offset="1" stop-color="#08A0C8"></stop>
+                      </linearGradient>
+                      <linearGradient id="profitability_svg__e" x1="3.498" y1="17.8" x2="3.498" y2="22.995" gradientUnits="userSpaceOnUse">
+                        <stop stop-color="#20CF97"></stop>
+                        <stop offset="1" stop-color="#08A0C8"></stop>
+                      </linearGradient>
+                    </defs>
+                  </svg>

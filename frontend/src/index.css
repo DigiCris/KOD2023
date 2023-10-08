@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+* {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    box-sizing: border-box;
+}
+
+#myOrders::-webkit-scrollbar {
+    width: 15px;
+}
+
+#myOrders::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 15px;
+}
+
+#navigationButtons::-webkit-scrollbar-thumb {
+  background-color: red;
+}
+
+html {
+    background-color: #e9e8e8;
+}
